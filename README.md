@@ -1,4 +1,4 @@
-# custom-mudita-launcher Kompakt Launcher Mods
+# Kompakt Launcher Mods
 
 
 
