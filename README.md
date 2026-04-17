@@ -47,8 +47,6 @@ additions:
 - Long-press anywhere on the home screen (500ms hold, <30px drift) opens the Hub.
   Implemented via an override of `MainActivity.dispatchTouchEvent` that schedules
   a `HubRunnable` on `ACTION_DOWN` and cancels it on MOVE/UP.
-- Double-tap on the apps icon also opens the Hub. Implemented in `LG2/a;->j`
-  (the icon-tap dispatcher) using a static `LAST_APPS_TAP_MS` timestamp.
 
 ### "Reading mode" feature (gated by toggle)
 - `MeinkHelper.init()` reflects into the hidden `android.meink.IMeinkService`
