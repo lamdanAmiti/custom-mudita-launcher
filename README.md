@@ -1,6 +1,6 @@
-# custom-mudita-launcher
+# custom-mudita-launcher Kompakt Launcher Mods
 
-Kompakt Launcher Mods
+
 
 Patch file: `kompakt_launcher_mods_clean.patch`
 
